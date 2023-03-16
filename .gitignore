@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 *.ipynb_metadata
 *.ipynb_*
+*__pycache__/
